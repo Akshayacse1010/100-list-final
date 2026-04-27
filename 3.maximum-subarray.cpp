@@ -9,8 +9,6 @@
        1. define i and j as intervals via 2 loops 
        2. iterate thorugh the intervals using another loop k 
        3. sum and add it to the max. if max is more than sum then replace max with sum
-       - Compute sum for each subarray.
-       - Track maximum.
 
        Time Complexity: O(N^3)
        Space Complexity: O(1)
